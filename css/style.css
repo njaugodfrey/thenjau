@@ -8,6 +8,17 @@ body {
       padding-top: 5%;
   }
 
+  .logo img{
+      width: 40%;
+      height: 175%;
+      margin-bottom: 50px;
+      margin-left: 20%;
+  }
+
+  .search{
+      margin-top: 50px;
+  }
+
   main {
     flex: 1 0 auto;
     margin-left: 300px;
