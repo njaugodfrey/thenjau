@@ -10,11 +10,11 @@ body {
   }
 
 .side-nav{
-      padding-top: 5%;
+      padding-top: 10%;
   }
 
   .logo img{
-      width: 40%;
+      width: 35%;
       height: 175%;
       margin-bottom: 50px;
       margin-left: 20%;
@@ -26,12 +26,26 @@ body {
 
   .nav-list{
       margin-top: 50px;
+      padding-top: 10%;
+  }
+
+  .nav-list ul li{
+    border-bottom: 2px solid #cc6600;
   }
 
   main {
     flex: 1 0 auto;
     /*margin-left: 300px;
     padding-top: 50px;*/
+  }
+
+  .lime-green{
+    color: #00ff00;
+  }
+
+  .brown200{
+    color: #cc6600;
+    font-size: 20pt;
   }
 
   footer{
