@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+.side-nav{
+      padding-top: 5%;
+  }
+
+  main {
+    flex: 1 0 auto;
+    margin-left: 300px;
+  }
+
+  footer{
+      margin-left: 300px;
+  }
